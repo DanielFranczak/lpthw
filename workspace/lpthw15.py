@@ -13,3 +13,4 @@ txt_again = open(file_again) # open the file
 
 print(txt_again.read()) #write content of the opened file on the screen
 
+txt_again.close()
