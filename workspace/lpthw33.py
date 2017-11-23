@@ -40,7 +40,8 @@ for num in numbers:
 
 ap1 = appendable(0, 8)
 ap2 = appendable_beta(6, 2)
-#ap3 = apependable_gamma(3,8)
+ap3 = apependable_gamma(3,8)
 
 print(ap1)
-
+print(ap2)
+print(ap3)
