@@ -44,3 +44,5 @@ if not state:
 # get a city with default value
 city = cities.get('TX', 'Does Not Exist')
 print(f"The city for the state 'TX' is: {city}")
+
+#collections.OrderedDict - ordered dicts !
